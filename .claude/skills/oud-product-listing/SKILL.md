@@ -43,7 +43,13 @@ Care / use:       one line (e.g. "Apply a small amount to pulse points; a little
 ```
 
 For captions, give 2 options per language, each ≤ 220 characters, ending with how to order
-(e.g. "Order on WhatsApp") rather than a hard sell.
+rather than a hard sell.
+
+Ordering links (Instagram handle `@atraoud`):
+- Order by direct message: https://ig.me/m/atraoud — use this for "order now" calls to action
+- Profile: https://instagram.com/atraoud
+On Instagram itself links in captions aren't clickable, so write "DM us to order" / "اطلب عبر الرسائل الخاصة"
+there; use the ig.me link in WhatsApp broadcasts, the website and the app.
 
 Arabic: use proper Arabic punctuation (، ؛ ؟), Arabic product terms (دهن العود، بخور، معمول،
 تولة), and keep the brand name "Autra Oud" in Latin letters unless the user gives an Arabic form.
