@@ -45,9 +45,9 @@ Care / use:       one line (e.g. "Apply a small amount to pulse points; a little
 For captions, give 2 options per language, each ≤ 220 characters, ending with how to order
 rather than a hard sell.
 
-Ordering links (Instagram handle `@atraoud`):
-- Order by direct message: https://ig.me/m/atraoud — use this for "order now" calls to action
-- Profile: https://instagram.com/atraoud
+Ordering links (Instagram handle `@autr.oud`):
+- Order by direct message: https://ig.me/m/autr.oud — use this for "order now" calls to action
+- Profile: https://instagram.com/autr.oud
 On Instagram itself links in captions aren't clickable, so write "DM us to order" / "اطلب عبر الرسائل الخاصة"
 there; use the ig.me link in WhatsApp broadcasts, the website and the app.
 
